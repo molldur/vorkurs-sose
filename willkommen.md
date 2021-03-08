@@ -77,6 +77,9 @@ _Felix Werthschulte, Dozent für Neue Medien_
 
 ## Chat
 
+* schneller Austausch
+* Multimedia
+
 ---
 
 ## Videokonferenz
