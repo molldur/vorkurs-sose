@@ -91,7 +91,7 @@ _Felix Werthschulte, Dozent für Neue Medien_
 - *Referat* zu einer Form von Neuen Medien
   - z.B. YouTube-Video
   - als Audio (z.B. per Smartphone, Audiorecorder etc.)
-  - Dauer: min. 10 Minuten pro Referent
+  - Dauer: min. 10 Minuten pro Referent*in
   - Partnerarbeit möglich
 - Information über Inhalte im Pad
 - Teilnahme an Videokonferenzen, so viel wie (technisch) möglich
