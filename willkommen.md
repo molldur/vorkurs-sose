@@ -57,7 +57,7 @@ _Felix Werthschulte, Dozent für Neue Medien_
 
 - Es gibt vier Kanäle:
   1. Pad (Cryptpad)
-  2. Chat (Telegram oder Matrix)
+  2. Chat (Telegram)
   3. Videokonferenz (Jitsi)
   4. E-Mail
 - Die Punkte 1-3 sind nicht vorgeschrieben, aber für Neue Medien sehr sinnvoll. :smile:
@@ -95,3 +95,7 @@ _Felix Werthschulte, Dozent für Neue Medien_
   - Dauer: min. 10 Minuten pro Referent*in
 - Information über Inhalte im Pad
 - Teilnahme an Videokonferenzen, so viel wie (technisch) möglich
+
+---
+
+## Fragen?
