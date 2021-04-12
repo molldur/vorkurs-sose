@@ -33,55 +33,57 @@ _Felix Werthschulte, Dozent für Neue Medien_
 
 ## Inhalt des Unterrichts
 
-* Erfahren, was Neue Medien ermöglichen
-* Beschreiben und analysieren der Möglichkeiten
-* Neue Medien selbst produzieren (Teamarbeit)
-* eigene, fachbezogene Ausdrucksform finden
+- Erfahren, was Neue Medien ermöglichen
+- Beschreiben und analysieren der Möglichkeiten
+- Neue Medien selbst produzieren (Teamarbeit)
+- eigene, fachbezogene Ausdrucksform finden
 
 ---
 
 ## Seminare
 
-* "Vorkurs"
-  * im 3. Semester
-  * zur Einführung/Theorie
-  * 60 Min. Kontaktzeit
-* "Werkstatt"
-  * im 4. Semester
-  * zur praktischen Übung (Projekte)
-  * 90 Min. Kontaktzeit
+- "Vorkurs"
+  - im 3. Semester
+  - zur Einführung/Theorie
+  - 60 Min. Kontaktzeit
+- "Werkstatt"
+  - im 4. Semester
+  - zur praktischen Übung (Projekte)
+  - 90 Min. Kontaktzeit
 
 ---
 
 ## Virtueller Unterricht
 
-* Es gibt vier Kanäle:
+- Es gibt vier Kanäle:
   1. Pad (Cryptpad)
   2. Chat (Telegram oder Matrix)
   3. Videokonferenz (Jitsi)
   4. E-Mail
-* Die Punkte 1-3 sind nicht vorgeschrieben, aber für Neue Medien sehr sinnvoll. :smile:
+- Die Punkte 1-3 sind nicht vorgeschrieben, aber für Neue Medien sehr sinnvoll. :smile:
 
 ---
 
 ## Pad
 
-* Pad = Dokument im Internet
-* zum gemeinsamen Arbeiten, Protokoll
-* per Adresslink erreichbar ([Link](https://cryptpad.fr/pad/#/2/pad/edit/SY7H2DkcRcu0t1caY+vkr8+n/))
-* funktioniert auf Handy, PC, etc.
-* am besten mit großem Bildschirm/Tastatur
+- Pad = Dokument im Internet
+- zum gemeinsamen Arbeiten, Protokoll
+- per Adresslink erreichbar ([Link](https://cryptpad.fr/pad/#/2/pad/edit/SY7H2DkcRcu0t1caY+vkr8+n/))
+- funktioniert auf Handy, PC, etc.
+- am besten mit großem Bildschirm/Tastatur
 
 ---
 
 ## Chat
 
-* schneller Austausch
-* Multimedia
+- schneller Austausch
+- Multimedia
 
 ---
 
 ## Videokonferenz
+
+- [https://meet.ffmuc.net/MAKSSoSe21Vorkurs1](https://meet.ffmuc.net/MAKSSoSe21Vorkurs1)
 
 ---
 
