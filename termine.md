@@ -1,4 +1,6 @@
-# Termine Vorkurs Montag
+# Termine Vorkurs I
+
+- Uhrzeit: 10:30-11:30 Uhr
 
 | Datum | Sitzung | Inhalt |
 | ----- | ------- | ------ |

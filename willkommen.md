@@ -22,7 +22,6 @@ _Felix Werthschulte, Dozent für Neue Medien_
 
 - Email: [felix.werthschulte@kassel.de](mailto:felix.werthschulte@kassel.de)
 - Telegram: ['Felix W. (Dozent)' oder '@molldur42'](t.me/molldur42)
-- Matrix: '\@molldur:matrix.org'
 
 ---
 
@@ -69,7 +68,7 @@ _Felix Werthschulte, Dozent für Neue Medien_
 
 * Pad = Dokument im Internet
 * zum gemeinsamen Arbeiten, Protokoll
-* per Adresslink erreichbar (https://cryptpad.fr/XYZ ...)
+* per Adresslink erreichbar ([Link](https://cryptpad.fr/pad/#/2/pad/edit/SY7H2DkcRcu0t1caY+vkr8+n/))
 * funktioniert auf Handy, PC, etc.
 * am besten mit großem Bildschirm/Tastatur
 
@@ -92,6 +91,5 @@ _Felix Werthschulte, Dozent für Neue Medien_
   - z.B. YouTube-Video
   - als Audio (z.B. per Smartphone, Audiorecorder etc.)
   - Dauer: min. 10 Minuten pro Referent*in
-  - Partnerarbeit möglich
 - Information über Inhalte im Pad
 - Teilnahme an Videokonferenzen, so viel wie (technisch) möglich
